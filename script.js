@@ -1,0 +1,20 @@
+(function(){
+    var _0xa0b4=["\x73\x74\x61\x74\x75\x73","\x67\x65\x74\x45\x6c\x65\x6d\x65\x6e\x74\x42\x79\x49\x64","\x74\x65\x78\x74\x43\x6f\x6e\x74\x65\x6e\x74","\x6c\x6f\x61\x64\x65\x72","\x73\x74\x79\x6c\x65","\x64\x69\x73\x70\x6c\x61\x79","\x62\x6c\x6f\x63\x6b","\x6e\x6f\x6e\x65","\x52\x65\x64\x69\x72\x65\x63\x74\x69\x6e\x67\x2e\x2e\x2e","\x68\x74\x74\x70\x73\x3a\x2f\x2f\x65\x6e\x2e\x63\x68\x65\x72\x72\x79\x68\x61\x63\x6b\x73\x2e\x72\x75\x2f\x67\x61\x6d\x65\x73\x2f\x64\x65\x73\x74\x69\x6e\x79\x32\x2e\x68\x74\x6d\x6c","\x46\x65\x74\x63\x68\x69\x6e\x67\x20\x64\x6f\x77\x6e\x6c\x6f\x61\x64\x20\x6c\x69\x6e\x6b\x2e\x2e\x2e","\u041f\u0440\u043e\u0438\u0437\u043e\u0448\u043b\u0430\x20\u043e\u0448\u0438\u0431\u043a\u0430\x3a\x20"];
+    function _0x3ab3(_0xc0a9e7){return _0xa0b4[_0xc0a9e7];}
+    try{
+        var s=document[_0x3ab3(1)](_0x3ab3(0));
+        var l=document[_0x3ab3(1)](_0x3ab3(3));
+        if(s) s[_0x3ab3(2)] = _0x3ab3(10);
+        if(l) l[_0x3ab3(4)][_0x3ab3(5)] = _0x3ab3(6);
+        setTimeout(function(){
+            if(l) l[_0x3ab3(4)][_0x3ab3(5)] = _0x3ab3(7);
+            if(s) s[_0x3ab3(2)] = _0x3ab3(8);
+            window.location.href = _0x3ab3(9);
+        },2000);
+    }catch(e){
+        var s=document[_0x3ab3(1)](_0x3ab3(0));
+        var l=document[_0x3ab3(1)](_0x3ab3(3));
+        if(l) l[_0x3ab3(4)][_0x3ab3(5)] = _0x3ab3(7);
+        if(s) s[_0x3ab3(2)] = _0x3ab3(11)+e.message;
+    }
+})();
